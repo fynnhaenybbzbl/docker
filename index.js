@@ -8,7 +8,7 @@ const todos = [
 ];
 
 app.get("/", (req, res) => {
-  res.send("ToDo API with node");
+  res.send("ToDo API with node! FOKUS");
 });
 
 app.get("/api/todos", (req, res) => {
