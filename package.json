@@ -1,13 +1,13 @@
 {
-  "name": "webapi-node",
+  "name": "Webpage",
   "version": "1.0.0",
-  "description": "dummy webapi",
+  "description": "Webpage",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon -L index.js"
   },
-  "author": "Markus Seeli",
+  "author": "Fynn Häny",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.6",
