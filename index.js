@@ -114,10 +114,6 @@ app.get('/waffen', (req, res) => {
   res.send(waffenHtml);
 });
 
-
-
-
-
 app.listen(PORT, () => {
   console.log(`Die Valorant Webseite ist auf Port ${PORT} verfügbar.`);
 });
